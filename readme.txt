@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 boss
 Creating a new branch is quick.
 12324124124
+1
